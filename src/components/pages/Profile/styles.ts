@@ -54,3 +54,9 @@ export const Repos = styled.div`
     }
   }
 `;
+
+export const CalendarHeading = styled.span`
+  font-size: 16px;
+  margin: 26px 0 0px;
+  display: inline-flex;
+`;
